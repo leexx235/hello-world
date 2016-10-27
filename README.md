@@ -1,2 +1,4 @@
 # hello-world
-Another worthless repository with hopefully a unique way to say hello world
+Hello world:
+
+I like making stuff that no one else will use. If you're looking at using this be proud to be a nobody.
